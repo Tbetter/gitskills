@@ -1,4 +1,6 @@
 # gitskills
 This a readme.
 
-this a bug.
+this is change bug.
+
+this is dev work.
